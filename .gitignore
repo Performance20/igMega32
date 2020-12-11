@@ -27,3 +27,11 @@ _ReSharper*/
 [Tt]est[Rr]esult*
 *.vssscc
 $tf*/
+.vs/
+Debug/
+bin/
+obj/
+bin/Debug
+obj/Debug
+x64/
+Win32/
